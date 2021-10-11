@@ -1,7 +1,7 @@
 {
   "discord": {
-    "token": "NjUzMjM1MjY5MzM1NjQ2MjA4.*******.*******",
-    "stream_notifications": "https://discord.com/api/webhooks/*******/******",
+    "token": "ODk3MDQ0MTM1MzM5NTA3NzIy.YWP7dA.7GOiwx_Z6ENOLcnAPtWpEocNgAE",
+    "stream_notifications": "https://discord.com/api/webhooks/897046605356744714/rPv7sZPUR9yPHlPKByL31xwNQj6IJl-ipWggLa9sSQnVN_c1q60_guflknK3zKuf--Ce",
     "logging": null,
     "role_name": {
       "live": "live",
@@ -12,8 +12,8 @@
   },
   "twitch": {
     "top_clips": 5,
-    "client_id": "*******",
-    "client_secret": "*******",
-    "user_login": ["Elajjaz"]
+    "client_id": "e1bc89e1tlqp8rx7nd05naafkhns2e",
+    "client_secret": "UHsqkWvTJTYdX85II8n0-ctaJtP2eNoC",
+    "user_login": ["Zyphan_"]
   }
 }
